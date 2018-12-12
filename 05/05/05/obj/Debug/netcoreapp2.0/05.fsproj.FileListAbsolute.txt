@@ -1,0 +1,8 @@
+D:\documentos\programacion\adventofcode2018\05\05\05\bin\Debug\netcoreapp2.0\05.deps.json
+D:\documentos\programacion\adventofcode2018\05\05\05\bin\Debug\netcoreapp2.0\05.runtimeconfig.json
+D:\documentos\programacion\adventofcode2018\05\05\05\bin\Debug\netcoreapp2.0\05.runtimeconfig.dev.json
+D:\documentos\programacion\adventofcode2018\05\05\05\bin\Debug\netcoreapp2.0\05.dll
+D:\documentos\programacion\adventofcode2018\05\05\05\bin\Debug\netcoreapp2.0\05.pdb
+D:\documentos\programacion\adventofcode2018\05\05\05\obj\Debug\netcoreapp2.0\05.fsprojResolveAssemblyReference.cache
+D:\documentos\programacion\adventofcode2018\05\05\05\obj\Debug\netcoreapp2.0\05.dll
+D:\documentos\programacion\adventofcode2018\05\05\05\obj\Debug\netcoreapp2.0\05.pdb

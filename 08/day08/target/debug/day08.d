@@ -1,0 +1,1 @@
+D:\documentos\programacion\adventofcode2018\08\day08\target\debug\day08.pdb: D:\documentos\programacion\adventofcode2018\08\day08\src\input D:\documentos\programacion\adventofcode2018\08\day08\src\main.rs
